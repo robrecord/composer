@@ -82,7 +82,9 @@ Now just run `php bin/composer` in order to run Composer.
 
 #### Globally
 
-You can place the Composer PHAR anywhere you wish. If you put it in a directory
+Installing Composer as you would locally by downloading and running the installer. See [the Download page](https://getcomposer.org/download/) for instructions on how to run it.
+
+You can then place the Composer PHAR anywhere you wish. If you put it in a directory
 that is part of your `PATH`, you can access it globally. On unixy systems you
 can even make it executable and invoke it without directly using the `php`
 interpreter.
